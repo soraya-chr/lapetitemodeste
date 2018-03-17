@@ -1,0 +1,29 @@
+body{
+  font-size: 18px;
+  padding: 0px;
+  margin: 20px 40px 20px 40px;
+  text-align: center;
+}
+
+#title{
+  font-size: 40px;
+  font-family: 'Merienda', cursive;
+}
+
+.navigation {
+  color: black;
+  font-size: 18px;
+  margin: 0px 0px 100px 0px;
+  text-align: center;
+  letter-spacing: 4px;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer{
+  font-size: 15px;
+  text-align: center;
+  margin-top: 100px;
+}
